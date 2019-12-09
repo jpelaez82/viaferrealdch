@@ -1,0 +1,16 @@
+{
+  "name": "digital-ocean-server",
+  "version": "1.0.0",
+  "description": "Encuesta Via Ferrea LD-CH usando MongoDB, Express y Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OnePelaez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^2.2.33"
+  }
+}
